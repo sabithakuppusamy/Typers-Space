@@ -4,7 +4,7 @@
   "newProjectRoot": "projects",
   "projects": {
     "typersSpace": {
-      "root": "",
+      "root": "asdf",
       "sourceRoot": "src",
       "projectType": "application",
       "prefix": "app",
